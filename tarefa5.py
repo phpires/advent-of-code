@@ -2,7 +2,7 @@ import sys
 import itertools
 
 #file_path = "/content/drive/MyDrive/Colab Notebooks/adventOfCode/input05_test.txt"
-file_path = "D:/advent of code/data/input05.txt"
+file_path = "D:/advent-of-code/dados/input05.txt"
 
 def obter_coordenada(coordenada):
   x1 = int(coordenada.split(" -> ")[0].split(",")[0])
